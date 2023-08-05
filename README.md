@@ -8,5 +8,7 @@
 - :meat_on_bone: 不积跬步，无以至千里
 
 ### Summary
+![](https://github-readme-stats.vercel.app/api?username=CCweixiao&theme=blue-green&show_icons=true)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=CCweixiao&theme=blue-green&show_icons=true" />
+### Page View
+![pv](https://profile-counter.glitch.me/CCweixiao/count.svg)
