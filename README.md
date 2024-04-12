@@ -2,10 +2,10 @@
 
 ### 你好，世界 👋
 
-- :orange_book: 一想到人终将死亡，就什么都不再怕了
-- :hammer: 按照能量守恒定律，所有当前看似毫无意义的付出，总归会在未来的某段时光中于你回报
-- :ram: 要努力发现这个世界的美好，珍惜眼前对你不离不弃的人
-- :meat_on_bone: 不积跬步，无以至千里
+- :hammer: 一想到人终将死亡，就什么都不再怕了
+- :ram: 按照能量守恒定律，所有当前看似毫无意义的付出，总归会在未来的某段时光中于你回报
+- :meat_on_bone: 要努力发现这个世界的美好，珍惜眼前对你不离不弃的人
+- :orange_book: 不积跬步，无以至千里
 
 ### Summary
 ![](https://github-readme-stats.vercel.app/api?username=CCweixiao&theme=blue-green&show_icons=true)
